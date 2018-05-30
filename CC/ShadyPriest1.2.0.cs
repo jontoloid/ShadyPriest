@@ -6,16 +6,10 @@ using ZzukBot.Engines.CustomClass;
 using ZzukBot.Engines.CustomClass.Objects;
 
 /*
-Original CC by EmuPriest, list of changes and additions:
--added Mind Blast support [on pull]
--multiple add handling behaviour (in line with this goes the usage of devouring plague, if you are undead)
--drink selection
--Shadowform
--Mind Flaying up to b% target health. Depending on your wand (!) this value needs to be adjusted. With a bad wand im running with 55%.
 
 CREDITS
 to krycess for his CasinoFury2, I have taken his approach to handling adds and selecting drinks and implemented those in here.
-to uh.. Emu? for providing the original EmuPriest.
+to uh.. Emu?
 to Fedelis for his FedLock - it seems his approach of GCD checking via CanUse has fixed my wanding issue.
 
 
